@@ -6,5 +6,5 @@ Curs Eines Digitals per a Periodisme de Dades (Juliol 2017)
    ### Transparència 
    Editors de text: *EMACS*, *Notepad +++*, *Sublime Text*
    Consola: [cygwib](https://www.cygwin.com/cygwin "pàgina web")
-   ### Introducción periodismo datos
+   ### Introducció periodisme dades
    >Phil Meyer és el pioner
